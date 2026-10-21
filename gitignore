@@ -1,0 +1,16 @@
+# Bí mật - TUYỆT ĐỐI không đưa lên GitHub
+.streamlit/secrets.toml
+dudu_settings.json
+dudu_settings.json.bak
+
+# Sách và chỉ mục (tải từ Google Drive khi chạy)
+kho_sach/
+
+# Dữ liệu cá nhân phát sinh khi dùng
+dudu_library.json*
+dudu_mistakes.json*
+dudu_progress.json*
+
+__pycache__/
+*.pyc
+.venv/
